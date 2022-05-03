@@ -23,10 +23,6 @@ ko-fi.com/ayushanand20097
 
 [![Github Overview](https://github-readme-stats.vercel.app/api?username=ayush-py-dev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ayush-py-dev) <br>
 
-<!-- Profile Visitors
-![Count](https://profile-counter.glitch.me/ayush-py-dev/count.svg) -->
-
-![Languages](https://github-readme-stats.itzsylex.vercel.app/api/top-langs/?username=ayush-py-dev&hide&theme=chartreuse-dark&)
-
 
 ![contrib](https://activity-graph.herokuapp.com/graph?username=ayush-py-dev&theme=github&count_private=true)
+
