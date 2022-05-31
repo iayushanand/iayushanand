@@ -1,9 +1,10 @@
 <h1 align="center"> Ayu Itz </h1>
 
+### I am Ayu(16), I am a Discord Bot developer and a Student.
 
 - 🔭 I’m currently working on: **Ayu's Utilities Rewrite**
 - 🌱 I’m currently learning: **Rust**
-- 👯 I’m looking to collaborate with youtubers and software developers
+- 👯 I’m looking for friends online!
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a discord Server!**
 
