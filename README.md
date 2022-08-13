@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: **Rust**
 - 👯 I’m looking for friends online!
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I have a discord Server!**
+- ⚡ Fun fact: **I have a [website](https://www.ayuitz.tech)!**
 
 ---
 <a href="https://discord.gg/BrMtkWS8GS"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
