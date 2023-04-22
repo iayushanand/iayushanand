@@ -9,6 +9,8 @@
 - ⚡ Fun fact: **I have a [website](https://www.ayuitz.tech)!**
 
 ---
+#### Discord
+
 <a href="https://discord.gg/BrMtkWS8GS"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 
@@ -20,10 +22,13 @@
 ko-fi.com/ayushanand20097
 )
 
+
 ---
+Stats
 
-[![Github Overview](https://github-readme-stats.vercel.app/api?username=ayush-py-dev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ayush-py-dev) <br>
+[![Github Overview](https://github-readme-stats.vercel.app/api?username=ayush-py-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=b0b0b0&icon_color=9100d4&text_color=A1A1A1&bg_color=0,000000,550299)](https://github.com/ayush-py-dev)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-py-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![contrib](https://activity-graph.herokuapp.com/graph?username=ayush-py-dev&theme=github&count_private=true)
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
