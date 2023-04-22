@@ -16,12 +16,6 @@
 
 [![](https://discord.c99.nl/widget/theme-3/748053138354864229.png)](https://discord.gg/BrMtkWS8GS)
 
-[![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/BrMtkWS8GS)
-[![Sub my YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AyuItz)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](
-ko-fi.com/ayushanand20097
-)
-
 
 ---
 Stats
@@ -32,3 +26,26 @@ Stats
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
+<img src="https://github-profile-trophy.vercel.app/?username=ayush-py-dev&theme=juicyfresh&no-bg=true" />
+
+---
+
+#### Misc: <br>
+##### Here's a joke for you:
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+##### Skills:
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" /> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/godot.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/iot.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" />
+
+##### Socials:
+
+<a href="https://instagram.com/ayu__itz"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" alt="instagram"/></a>
+<a href="https://youtube.com/ayuitz"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/streaming/youtube.svg" alt="youtube"></a>
+<a href="https://twitter.com/AyuItz1"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter"></a>
