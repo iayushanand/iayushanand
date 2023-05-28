@@ -35,17 +35,6 @@ Stats
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ##### Skills:
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" /> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/godot.svg" />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg" />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/iot.svg" />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" />
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,mongodb,java,figma,discord,heroku,flask,fastapi,bots,bootstrap)](https://ayuitz.xyz)
 
-##### Socials:
-
-<a href="https://instagram.com/ayu__itz"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" alt="instagram"/></a>
-<a href="https://youtube.com/ayuitz"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/streaming/youtube.svg" alt="youtube"></a>
-<a href="https://twitter.com/AyuItz1"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter"></a>
+<!-- ##### Socials: -->
