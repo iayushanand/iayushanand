@@ -14,7 +14,7 @@
 <a href="https://discord.gg/BrMtkWS8GS"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 
-[![](https://discord.c99.nl/widget/theme-3/748053138354864229.png)](https://discord.gg/BrMtkWS8GS)
+[![](https://discord.c99.nl/widget/theme-4/748053138354864229.png)](https://discord.gg/BrMtkWS8GS)
 
 
 ---
