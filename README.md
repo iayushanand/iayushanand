@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: **Rust**
 - 👯 I’m looking for friends online!
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I have a [website](https://www.ayuitz.tech)!**
+- ⚡ Fun fact: **Life Exists!**
 
 ---
 #### Discord
@@ -18,13 +18,12 @@
 
 
 ---
-Stats
+Poor Stats
 
 [![Github Overview](https://github-readme-stats.vercel.app/api?username=iayushanand&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=b0b0b0&icon_color=9100d4&text_color=A1A1A1&bg_color=0,000000,550299)](https://github.com/iayushanand)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iayushanand&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <img src="https://github-profile-trophy.vercel.app/?username=iayushanand&theme=juicyfresh&no-bg=true" />
 
