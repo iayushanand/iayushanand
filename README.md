@@ -24,8 +24,6 @@ Poor Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iayushanand&theme=dark&hide_border=false)
 
-![](https://github.com/iayushanand/iayushanand/blob/output/github-contribution-grid-snake.svg)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iayushanand&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
