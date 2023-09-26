@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: **Rust**
 - 👯 I’m looking for friends online!
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Life Exists!**
+- ⚡ Fun fact: I have a [website](https://ayuitz.vercel.app/)
 
 ---
 #### Discord
@@ -36,6 +36,6 @@ Poor Stats
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ##### Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,mongodb,java,figma,discord,heroku,flask,fastapi,bots,bootstrap)](https://ayuitz.xyz)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,mongodb,java,figma,discord,heroku,flask,fastapi,bots,bootstrap)](https://ayuitz.vercel.app)
 
 <!-- ##### Socials: -->
