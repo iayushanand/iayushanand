@@ -1,5 +1,6 @@
 <h1 align="center"> Ayu Itz </h1>
 
+
 ### I am Ayu(17), I am a Discord Bot developer and a Student.
 
 - 🔭 I’m currently working on: **Ayu's Utilities Rewrite**
