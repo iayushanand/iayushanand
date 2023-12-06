@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: **Rust**
 - 👯 I’m looking for friends online!
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I have a [website](https://ayuitz.vercel.app/)
+- ⚡ Fun fact: I have a [website](https://ayuitz.xyz/)
 
 ---
 #### Discord
