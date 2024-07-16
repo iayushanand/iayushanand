@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iayushanand&label=Views&color=7e49a8&style=for-the-badge&base=1235&abbreviated=true" alt="ayuwu"/> </p>
 
 ![!](https://capsule-render.vercel.app/api?type=waving&height=200&color=be6dfc&text=Hi,%20I%20am%20Ayu&textBg=false&section=header&reversal=false&desc=Welcome%20to%20my%20Github&fontColor=ffffff&fontSize=54&fontAlignY=30&descAlignY=45&animation=twinkling)
 
