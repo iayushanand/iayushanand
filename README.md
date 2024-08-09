@@ -26,8 +26,9 @@
 <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=iayushanand&theme=jolly&hide_border=true&bg_color=00000000"> 
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,mongodb,java,figma,discord,heroku,flask,fastapi,bots,bootstrap,tailwindcss)](https://ayuitz.vercel.app)
-
+<p align="center">ㅤㅤㅤ
+ㅤㅤㅤ<img align="center" src = https://skillicons.dev/icons?i=py,java,html,css,tailwindcss,flask,fastapi,postgres,mongodb  ">
+</p>
 <!-- ![](https://capsule-render.vercel.app/api?type=slice&height=97&color=be6dfc&reversal=false&section=footer&&fontSize=30&fontColor=ffffff&desc=Thanks%20for%20visit&descAlignY=97&fontAlign=27) -->
 
 
