@@ -34,7 +34,7 @@
 </p>
 <!-- ![](https://capsule-render.vercel.app/api?type=slice&height=97&color=be6dfc&reversal=false&section=footer&&fontSize=30&fontColor=ffffff&desc=Thanks%20for%20visit&descAlignY=97&fontAlign=27) -->
 
-![Snake animation](https://raw.githubusercontent.com/{iayushanand}/{iayushanand}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/iayushanand/iayushanand/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--<img src="https://github-profile-trophy.vercel.app/?username=iayushanand&theme=juicyfresh&no-bg=true" />-->
