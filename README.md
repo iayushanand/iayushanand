@@ -25,9 +25,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iayushanand&hide_progress=false&theme=jolly&hide_border=true&bg_color=00000000" alt="ovi" /> ![](https://github-readme-stats.vercel.app/api?username=iayushanand\&rank_icon=github&theme=jolly&hide_border=true&bg_color=00000000) 
 
 
-<!--  <p align="center">
+<p align="center">
 <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=iayushanand&theme=jolly&hide_border=true&bg_color=00000000"> 
-</p> -->
+</p>
 
 <p align="center">ㅤㅤㅤ
 ㅤㅤㅤ<img align="center" src = https://skillicons.dev/icons?i=py,java,html,css,tailwindcss,flask,fastapi,postgres,mongodb  ">
