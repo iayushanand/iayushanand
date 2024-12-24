@@ -43,5 +43,6 @@
 <!--<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->
 
 
+![!](https://capsule-render.vercel.app/api?type=transparent&height=150&color=be6dfc&text=Thanks%20for%20visiting&section=footer&reversal=false&fontAlignY=80&fontSize=50&fontColor=ffff)
 
 <!-- ##### Socials: -->
