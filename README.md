@@ -8,8 +8,9 @@
  <summary>🖼</summary>
 <img align="right" width="300" height="648" src="https://wallpapers-clan.com/wp-content/uploads/2023/05/cute-anime-boy-art-wallpaper.jpg">
 </details>
-
- [![](https://discord.c99.nl/widget/theme-4/748053138354864229.png)](https://discord.gg/BrMtkWS8GS) 
+<!---
+ [![](https://discord.c99.nl/widget/theme-4/748053138354864229.png)](https://discord.gg/BrMtkWS8GS)
+ --->
 - 🔭 I’m currently working on: [**Ayu's Utilities Rewrite**](https://github.com/iayushanand/ayubot)
 - 🌱 I’m currently learning: **Rust** 
 - 👯 I’m looking for friends online!  
