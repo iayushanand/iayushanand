@@ -2,7 +2,7 @@
 
 ![!](https://capsule-render.vercel.app/api?type=waving&height=200&color=be6dfc&text=Hi,%20I%20am%20Ayu&textBg=false&section=header&reversal=false&desc=Welcome%20to%20my%20Github&fontColor=ffffff&fontSize=54&fontAlignY=30&descAlignY=45&animation=twinkling)
 
-### I am Ayu(18), I am a Discord Bot developer and a Student.
+### I am Ayu, I am a Discord Bot developer and a Student.
 
 <!---
 <details open>
