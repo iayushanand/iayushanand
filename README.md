@@ -15,9 +15,9 @@
  [![](https://discord.c99.nl/widget/theme-4/748053138354864229.png)](https://discord.gg/BrMtkWS8GS)
  --->
  
-- 🔭 I’m currently working on: [**Ayu's Utilities Rewrite**](https://github.com/iayushanand/ayubot)
+- 🔭 I’m currently working on: **Nothing :(**
 - 🌱 I’m currently learning: **Nothing :(**  
-- ⚡ Fun fact: I have a [website](https://ayuitz.xyz/)
+- ⚡ Fun fact: I have a [website](https://ayushanand.com/)
 
 <!--<a href="https://discord.gg/BrMtkWS8GS"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>-->
 
