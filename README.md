@@ -2,18 +2,46 @@
 
 ![!](https://capsule-render.vercel.app/api?type=waving&height=200&color=be6dfc&text=Hi,%20I%20am%20Ayu&textBg=false&section=header&reversal=false&desc=Welcome%20to%20my%20Github&fontColor=ffffff&fontSize=54&fontAlignY=30&descAlignY=45&animation=twinkling)
 
-### I write code (sometimes)
 
-<!---
+
 <details open>
  <summary>🖼</summary>
 <img align="right" width="300" height="648" src="https://wallpapers-clan.com/wp-content/uploads/2023/05/cute-anime-boy-art-wallpaper.jpg">
 </details>
+
+
+### About me:
+
+ - Ayush Anand
+ - 18 years old
+ - India
+ - for more visit - [ayushanand.com](https://www.ayushanand.com)
+
+---
+- Skills 
+  - Languages: Python (Intermidate); Javascript (Intermediate); Java (Beginner); C (Learning)
+  - Frameworks: Svelte (BEST ONE TO EXIST)
+  - Databases: MongoDB, Postgres, SurrealDB
+  - Backend: Flask, FastAPI
+  - 
+
+- Skill Issues
+  - Rust
+
+--- 
+- Projects
+  - Discordify - [click here](https://github.com/iayushanand/discordify)
+  - Voice Assistant - [click here](https://github.com/iayushanand/voice-assistant)
+
+
+<!---
+
+### I write code (sometimes)
+
 --->
 
 <!---
  [![](https://discord.c99.nl/widget/theme-4/748053138354864229.png)](https://discord.gg/BrMtkWS8GS)
- --->
  
 - 🔭 I’m currently working on: **Nothing :(**
 - 🌱 I’m currently learning: **Nothing :(**  
