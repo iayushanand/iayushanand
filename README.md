@@ -19,7 +19,7 @@
 
 ## Skills:
 
-- Languages: Python (Intermidate); Javascript (Intermediate); Java (Beginner); C (Learning)
+- Languages: Python (Intermediate); JavaScript (Intermediate); Java (Beginner); C (Learning)
 
 - Web Frameworks: Svelte (BEST ONE TO EXIST)
 
