@@ -38,6 +38,7 @@
 
 - [Voice Assistant](https://github.com/iayushanand/voice-assistant)
 
+- EasyDRPC
 <!---
 
 ### I write code (sometimes)
