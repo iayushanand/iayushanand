@@ -38,7 +38,9 @@
 
 - [Voice Assistant](https://github.com/iayushanand/voice-assistant)
 
-- EasyDRPC
+- [EasyDRPC](https://github.com/iayushanand/Easy-DRPC)
+
+- [Grid Watch](https://github.com/iayushanand/Grid-Watch)
 <!---
 
 ### I write code (sometimes)
