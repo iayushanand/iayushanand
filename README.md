@@ -25,7 +25,7 @@
 
 - Databases: MongoDB, Postgres, SurrealDB
 
-- Backend: Flask, FastAPI
+- Backend: Flask, FastAPI, Express
 
 ## Skill Issue:
 
