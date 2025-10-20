@@ -21,7 +21,7 @@
 
 - Languages: Python (Intermediate); JavaScript (Intermediate); Java (Beginner); GO (Learning); C++ (Beginner)
 
-- Web Frameworks: Svelte (BEST ONE TO EXIST)
+- Web Frameworks: Svelte (BEST ONE TO EXIST), NextJS
 
 - Databases: MongoDB, Postgres, SurrealDB
 
