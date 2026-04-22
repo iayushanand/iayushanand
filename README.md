@@ -11,8 +11,6 @@
 
 - Ayush Anand
 
-- 18 years old
-
 - India
 
 - Website - [ayushanand.com](https://www.ayushanand.com)
