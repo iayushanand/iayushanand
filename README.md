@@ -73,8 +73,8 @@ Status:    building random things at 3am
 
 - Rust
 - Sleep schedule
-- CSS positioning
-- Emotional stability after debugging
+- Life
+- Emotional stability
 
 </td>
 
