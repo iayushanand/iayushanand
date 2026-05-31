@@ -64,8 +64,7 @@ Status:    building random things at 3am
 
 ### Philosophy
 
-> I am a cold hearted person who
-> writes code to escape reality.
+  <img src="https://quote.ayushanand.com" />
 
 ---
 
