@@ -38,7 +38,7 @@ Professional Skill-Issue Collector
 Name:      Ayush Anand
 Location:  India
 Website:   ayushanand.com
-Stack:     Python / JS / Backend
+Stack:     Python / JS / C
 Status:    building random things at 3am
 ```
 
