@@ -9,10 +9,6 @@
 <p align="center">
   <i>「静かに学び、速く作る。」</i>
 </p>
-<p align="center">
-  <sub>"Learn quietly. Build quickly."</sub>
-</p>
-
 
 <br>
 
@@ -36,9 +32,9 @@ Professional Skill-Issue Collector
 > whoami
 
 Name:      Ayush Anand
-Location:  India
+Location:  Bengaluru, India
 Website:   ayushanand.com
-Stack:     Python / JS / C
+Lang:      Python / JS / C
 Status:    building random things at 3am
 ```
 
@@ -46,7 +42,6 @@ Status:    building random things at 3am
 
 ### Currently Building
 
-- Backend systems
 - Developer utilities
 - Automation Tools
 - Blockchain
@@ -64,7 +59,7 @@ Status:    building random things at 3am
 
 ### Philosophy
 
-  <img src="https://quote.ayushanand.com" />
+Repetitive tasks are bugs. Automation is the fix.
 
 ---
 
