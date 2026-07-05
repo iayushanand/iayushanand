@@ -82,7 +82,7 @@ Repetitive tasks are bugs. Automation is the fix.
 <br><br>
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iayushanand&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iayushanand&theme=aura" 
   width="100%"
 />
 
@@ -93,13 +93,13 @@ Repetitive tasks are bugs. Automation is the fix.
 
 <td width="50%">
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iayushanand&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iayushanand&theme=aura"
 />
 </td>
 
 <td width="50%">
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iayushanand&theme=github_dark&utcOffset=5.5"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iayushanand&theme=aura&utcOffset=5.5"
 />
 </td>
 
@@ -109,13 +109,13 @@ Repetitive tasks are bugs. Automation is the fix.
 
 <td width="50%">
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iayushanand&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iayushanand&theme=aura"
 />
 </td>
 
 <td width="50%">
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iayushanand&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iayushanand&theme=aura"
 />
 </td>
 
