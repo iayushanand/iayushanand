@@ -57,10 +57,11 @@ Status:    building random things at 3am
 
 ---
 
-### Philosophy
-
-Repetitive tasks are bugs. Automation is the fix.
-
+### Currently
+```
+Mastering the Art of Minimalism
+@ min.ayushanand.com (coming soon)
+```
 ---
 
 ### Skill Issue
