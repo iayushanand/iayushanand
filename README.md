@@ -60,7 +60,7 @@ Status:    building random things at 3am
 ### Currently
 ```
 Mastering the Art of Minimalism
-@ min.ayushanand.com (coming soon)
+@ min.ayushanand.com
 ```
 ---
 
