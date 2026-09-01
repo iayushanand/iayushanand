@@ -74,11 +74,6 @@ solving DSA @ iayushanand/DSA-grind
 
 <td width="45%" valign="top" align="center">
 
-<img 
-  src="https://www.ayushanand.com/images/purplepic.png"
-  width="260"
-/>
-
 <br><br>
 
 <img 
