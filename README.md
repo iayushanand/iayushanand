@@ -74,6 +74,11 @@ solving DSA @ iayushanand/DSA-grind
 
 <td width="45%" valign="top" align="center">
 
+<img 
+  src="https://i.pinimg.com/236x/31/34/c9/3134c9f04bb0a6d728a41c62fe470301.jpg"
+  width="260"
+/>
+
 <br><br>
 
 <img 
