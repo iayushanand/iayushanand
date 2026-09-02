@@ -57,9 +57,9 @@ Status:    building random things at 3am
 
 ---
 
-### Currently
-```
-solving DSA @ iayushanand/DSA-grind
+### i code
+```py
+print("hello, world!");
 ```
 ---
 
