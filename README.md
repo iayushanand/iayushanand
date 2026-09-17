@@ -20,10 +20,9 @@
 # Ayush Anand
 
 ```txt
-Backend Engineer
-Automation Builder
-AI Experimenter
-Professional Skill-Issue Collector
+Software
+Embedded
+VLSI
 ```
 
 <br>
@@ -40,12 +39,11 @@ Status:    building random things at 3am
 
 ---
 
-### Currently Building
+### I love
 
-- Developer utilities
-- Automation Tools
-- Blockchain
-- Random side quests
+- Listening to music
+- Making AI write code
+- Gaming
 
 ---
 
