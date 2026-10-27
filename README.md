@@ -41,9 +41,10 @@ Status:    building random things at 3am
 
 ### I love
 
-- Listening to music
-- Making AI write code
-- Gaming
+- listening to music
+- making AI write code
+- buying games and never playing them
+- watching anime
 
 ---
 
